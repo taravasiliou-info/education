@@ -1,10 +1,10 @@
 
 <?php
-$host = 'localhost';
-$db   = 'play2learn';
-$user = 'blackbrooklearning';
-$pass = '36WickedlocalVPS#';
-$charset = 'utf8mb4';
+$host = '';
+$db   = '';
+$user = '';
+$pass = '';
+$charset = '';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
